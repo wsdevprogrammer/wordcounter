@@ -39,10 +39,10 @@ export default function LowertoUppercase(props) {
                     style={{ height: 300 }}
                 ></textarea>
             </div>
-            <button className="btn btn-primary cpata mx-2" onClick={handleUpClick}>
+            <button className="btn btn-primary cpata mx-4" onClick={handleUpClick}>
                 Convert to Cpatalize
             </button>
-            <button className="btn btn-primary camel mx-2" onClick={handleCamelStyle}>
+            <button className="btn btn-primary camel mx-4" onClick={handleCamelStyle}>
                 Convert to Lowercase
             </button>
 
