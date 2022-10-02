@@ -1,6 +1,6 @@
 {
-  "homepage": "https://wsdmarketer.github.io/reactWordCounter",
-  "name": "reactwordcounter",
+  "homepage": "https://wsdmarketer.github.io/wordcounter",
+  "name": "wordcounter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
