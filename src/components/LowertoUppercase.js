@@ -3,8 +3,10 @@ import React, { useState } from "react";
 // import PropTypes from "prop-types";
 export default function LowertoUppercase(props) {
     function handleUpClick() {
-        console.log("Button Clicked " + text);
-        let changetext = text.toUpperCase();
+        // console.log("Button Clicked " + text);
+        let text;
+        let newText = text.trim();
+        let changetext = newText.toUpperCase();
         setText(changetext);
         // setText("You hit the Button to Make Some Majic")
     }
@@ -15,56 +17,58 @@ export default function LowertoUppercase(props) {
 
     const handleCamelStyle = (event) => {
         // console.log("Button Clicked " + text);
-        let cameltext = text.toLowerCase();
+        let cameltext = newText.toLowerCase();
         setText(cameltext);
     };
 
     const clearText = (event) =>{
-        setText("");
+        setText('');
     };
 
 
-    const [text, setText] = useState("Remove Me 😍!. ");
+    const [newText, setText] = useState("Remove Me 😍!.");
     return (
         <>
-            <h1>{props.heading} </h1>
+            
+            <p className="mt-4" style={{color: 'gray'}}>Clear Text & Paste your Text in the Text Area</p>
             <div className="form-floating mb-3">
                 <textarea
                     className="form-control"
                     onChange={handleOnChange}
-                    value={text}
+                    value={newText}
                     rows="8"
                     placeholder="Leave a comment here"
                     id="floatingTextarea2"
                     style={{ height: 300 }}
                 ></textarea>
             </div>
-            <button className="btn btn-primary cpata mx-4" onClick={handleUpClick}>
+            <button className="btn btn-primary cpata mx-2 " onClick={handleUpClick}>
                 Convert to Cpatalize
             </button>
-            <button className="btn btn-primary camel mx-4" onClick={handleCamelStyle}>
+            <button className="btn btn-primary camel mx-2 my-2" onClick={handleCamelStyle}>
                 Convert to Lowercase
             </button>
 
-            <button className="btn btn-secondary btn btn-info mx-3" onClick={clearText}>
+            <button className="btn bg-warning btn btn-info mx-2 my-2" onClick={clearText}>
                 Clear
             </button>
          
-                <hr />
+        
 
-            <div className="container">
+            <div className="container mt-4">
                 {/* <h4>Your Text Summry</h4> */}
-                <p>{text.split(" ").length} Words {text.length} Charachters</p>
-                <hr />
+                
+                <p>{newText.split(" ").length} Words {newText.length} Charachters</p>
+                <hr className="w-25" />
                 <h3>Reading Time</h3>
-                <hr />
-                <p>{0.04 * text.split(" ").length} Mintues Requried to Read </p>
-                <hr />
+                <hr className="w-25" />
+                <p>{0.04 * newText.split("").length} Mintues Requried to Read </p>
+                <hr className="w-25" />
             </div>
 
             <div className="container">
-                <h1>Preview</h1>
-                <p>{text}</p>
+                <h3>Preview</h3>
+                <p>{newText}</p>
             </div>
         </>
     );

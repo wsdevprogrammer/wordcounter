@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from './components/Navbar';
 import LowertoUppercase from './components/LowertoUppercase';
-import About from './components/About';
+import About from './components/Pages/About';
 
 // import ReactDOM from 'react-dom';
 // import logo from './logo.png';
@@ -14,9 +14,9 @@ function reactApp() {
   return (
 
       <>  
-      <Navbar  Home="Home" About="About us"/>
+      <Navbar  Home="Home" About="About"  Contact="Contact"/>
       <div className="container ">
-      <LowertoUppercase heading="Word Counter" />
+      <LowertoUppercase heading="Welcom to Word Counter" />
       {/* <About/> */}
       </div>
 
