@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6c4e6ac4646b75993219",
-    "url": "/reactWordCounter/static/css/main.ea7fc97e.chunk.css"
+    "revision": "6bd7af828907b46b0c2a",
+    "url": "/reactWordCounter/static/css/main.fe45191e.chunk.css"
   },
   {
-    "revision": "6c4e6ac4646b75993219",
-    "url": "/reactWordCounter/static/js/main.6c4e6ac4.chunk.js"
+    "revision": "6bd7af828907b46b0c2a",
+    "url": "/reactWordCounter/static/js/main.6bd7af82.chunk.js"
   },
   {
     "revision": "03ae7ea834bbe7645a20",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/reactWordCounter/static/js/runtime~main.ec5e265b.js"
   },
   {
-    "revision": "5c7f777eb5e6ad778cb3f8403d52313e",
+    "revision": "b0faeacab37613d3a2a9a98dd06a3974",
     "url": "/reactWordCounter/index.html"
   }
 ];
