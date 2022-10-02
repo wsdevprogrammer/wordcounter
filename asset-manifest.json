@@ -1,15 +1,15 @@
 {
-  "main.css": "/reactWordCounter/static/css/main.fe45191e.chunk.css",
-  "main.js": "/reactWordCounter/static/js/main.6bd7af82.chunk.js",
-  "main.js.map": "/reactWordCounter/static/js/main.6bd7af82.chunk.js.map",
-  "static/js/1.03ae7ea8.chunk.js": "/reactWordCounter/static/js/1.03ae7ea8.chunk.js",
-  "static/js/1.03ae7ea8.chunk.js.map": "/reactWordCounter/static/js/1.03ae7ea8.chunk.js.map",
-  "static/js/2.1fb84335.chunk.js": "/reactWordCounter/static/js/2.1fb84335.chunk.js",
-  "static/js/2.1fb84335.chunk.js.map": "/reactWordCounter/static/js/2.1fb84335.chunk.js.map",
-  "runtime~main.js": "/reactWordCounter/static/js/runtime~main.ec5e265b.js",
-  "runtime~main.js.map": "/reactWordCounter/static/js/runtime~main.ec5e265b.js.map",
-  "static/css/main.fe45191e.chunk.css.map": "/reactWordCounter/static/css/main.fe45191e.chunk.css.map",
-  "index.html": "/reactWordCounter/index.html",
-  "precache-manifest.c6f95b00802204d08d5fdcd955577525.js": "/reactWordCounter/precache-manifest.c6f95b00802204d08d5fdcd955577525.js",
-  "service-worker.js": "/reactWordCounter/service-worker.js"
+  "main.css": "/wordcounter/static/css/main.fe45191e.chunk.css",
+  "main.js": "/wordcounter/static/js/main.6bd7af82.chunk.js",
+  "main.js.map": "/wordcounter/static/js/main.6bd7af82.chunk.js.map",
+  "static/js/1.03ae7ea8.chunk.js": "/wordcounter/static/js/1.03ae7ea8.chunk.js",
+  "static/js/1.03ae7ea8.chunk.js.map": "/wordcounter/static/js/1.03ae7ea8.chunk.js.map",
+  "static/js/2.1fb84335.chunk.js": "/wordcounter/static/js/2.1fb84335.chunk.js",
+  "static/js/2.1fb84335.chunk.js.map": "/wordcounter/static/js/2.1fb84335.chunk.js.map",
+  "runtime~main.js": "/wordcounter/static/js/runtime~main.7d3f9263.js",
+  "runtime~main.js.map": "/wordcounter/static/js/runtime~main.7d3f9263.js.map",
+  "static/css/main.fe45191e.chunk.css.map": "/wordcounter/static/css/main.fe45191e.chunk.css.map",
+  "index.html": "/wordcounter/index.html",
+  "precache-manifest.5eca317de2c552fdfb974f459facdec2.js": "/wordcounter/precache-manifest.5eca317de2c552fdfb974f459facdec2.js",
+  "service-worker.js": "/wordcounter/service-worker.js"
 }
