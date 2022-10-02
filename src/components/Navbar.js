@@ -5,7 +5,7 @@ export default function navbar(props) {
   return (
     <nav className="navbar navbar-expand-lg bg-primary">
     <div className="container ">
-      <a className="navbar-brand  text-white"  href="/">{props.title}</a>
+      <a className="navbar-brand  text-white"  href="https://wsdmarketer.github.io/reactWordCounter/">{props.title}</a>
       <button className="navbar-toggler text-white" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation text-white">
         <span className="navbar-toggler-icon text-white"></span>
       </button>
