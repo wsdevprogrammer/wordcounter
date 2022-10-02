@@ -1,7 +1,7 @@
 {
   "main.css": "/reactWordCounter/static/css/main.ea7fc97e.chunk.css",
-  "main.js": "/reactWordCounter/static/js/main.ed9e70be.chunk.js",
-  "main.js.map": "/reactWordCounter/static/js/main.ed9e70be.chunk.js.map",
+  "main.js": "/reactWordCounter/static/js/main.6c4e6ac4.chunk.js",
+  "main.js.map": "/reactWordCounter/static/js/main.6c4e6ac4.chunk.js.map",
   "static/js/1.03ae7ea8.chunk.js": "/reactWordCounter/static/js/1.03ae7ea8.chunk.js",
   "static/js/1.03ae7ea8.chunk.js.map": "/reactWordCounter/static/js/1.03ae7ea8.chunk.js.map",
   "static/js/2.1fb84335.chunk.js": "/reactWordCounter/static/js/2.1fb84335.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/reactWordCounter/static/js/runtime~main.ec5e265b.js.map",
   "static/css/main.ea7fc97e.chunk.css.map": "/reactWordCounter/static/css/main.ea7fc97e.chunk.css.map",
   "index.html": "/reactWordCounter/index.html",
-  "precache-manifest.1e7a95d8b518206618439b9af4836697.js": "/reactWordCounter/precache-manifest.1e7a95d8b518206618439b9af4836697.js",
+  "precache-manifest.9b5456e28d89018cda814899ce939040.js": "/reactWordCounter/precache-manifest.9b5456e28d89018cda814899ce939040.js",
   "service-worker.js": "/reactWordCounter/service-worker.js"
 }
