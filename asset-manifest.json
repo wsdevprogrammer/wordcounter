@@ -1,15 +1,15 @@
 {
-  "main.css": "/wordcounter/static/css/main.fe45191e.chunk.css",
-  "main.js": "/wordcounter/static/js/main.6bd7af82.chunk.js",
-  "main.js.map": "/wordcounter/static/js/main.6bd7af82.chunk.js.map",
-  "static/js/1.03ae7ea8.chunk.js": "/wordcounter/static/js/1.03ae7ea8.chunk.js",
-  "static/js/1.03ae7ea8.chunk.js.map": "/wordcounter/static/js/1.03ae7ea8.chunk.js.map",
-  "static/js/2.1fb84335.chunk.js": "/wordcounter/static/js/2.1fb84335.chunk.js",
-  "static/js/2.1fb84335.chunk.js.map": "/wordcounter/static/js/2.1fb84335.chunk.js.map",
-  "runtime~main.js": "/wordcounter/static/js/runtime~main.7d3f9263.js",
-  "runtime~main.js.map": "/wordcounter/static/js/runtime~main.7d3f9263.js.map",
-  "static/css/main.fe45191e.chunk.css.map": "/wordcounter/static/css/main.fe45191e.chunk.css.map",
-  "index.html": "/wordcounter/index.html",
-  "precache-manifest.5eca317de2c552fdfb974f459facdec2.js": "/wordcounter/precache-manifest.5eca317de2c552fdfb974f459facdec2.js",
-  "service-worker.js": "/wordcounter/service-worker.js"
+  "files": {
+    "main.css": "/wsdevprogrammer/wordcounter/static/css/main.feb7bb35.css",
+    "main.js": "/wsdevprogrammer/wordcounter/static/js/main.17cc0289.js",
+    "static/js/787.a20e2129.chunk.js": "/wsdevprogrammer/wordcounter/static/js/787.a20e2129.chunk.js",
+    "index.html": "/wsdevprogrammer/wordcounter/index.html",
+    "main.feb7bb35.css.map": "/wsdevprogrammer/wordcounter/static/css/main.feb7bb35.css.map",
+    "main.17cc0289.js.map": "/wsdevprogrammer/wordcounter/static/js/main.17cc0289.js.map",
+    "787.a20e2129.chunk.js.map": "/wsdevprogrammer/wordcounter/static/js/787.a20e2129.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feb7bb35.css",
+    "static/js/main.17cc0289.js"
+  ]
 }
