@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wsdevprogrammer/wordcounter/static/css/main.feb7bb35.css",
-    "main.js": "/wsdevprogrammer/wordcounter/static/js/main.17cc0289.js",
-    "static/js/787.a20e2129.chunk.js": "/wsdevprogrammer/wordcounter/static/js/787.a20e2129.chunk.js",
-    "index.html": "/wsdevprogrammer/wordcounter/index.html",
-    "main.feb7bb35.css.map": "/wsdevprogrammer/wordcounter/static/css/main.feb7bb35.css.map",
-    "main.17cc0289.js.map": "/wsdevprogrammer/wordcounter/static/js/main.17cc0289.js.map",
-    "787.a20e2129.chunk.js.map": "/wsdevprogrammer/wordcounter/static/js/787.a20e2129.chunk.js.map"
+    "main.css": "/wordcounter/static/css/main.feb7bb35.css",
+    "main.js": "/wordcounter/static/js/main.a9688c3a.js",
+    "static/js/787.a20e2129.chunk.js": "/wordcounter/static/js/787.a20e2129.chunk.js",
+    "index.html": "/wordcounter/index.html",
+    "main.feb7bb35.css.map": "/wordcounter/static/css/main.feb7bb35.css.map",
+    "main.a9688c3a.js.map": "/wordcounter/static/js/main.a9688c3a.js.map",
+    "787.a20e2129.chunk.js.map": "/wordcounter/static/js/787.a20e2129.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.feb7bb35.css",
-    "static/js/main.17cc0289.js"
+    "static/js/main.a9688c3a.js"
   ]
 }
