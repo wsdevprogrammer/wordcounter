@@ -1,5 +1,5 @@
 {
-  "homepage": "https://wsdmarketer.github.io/wordcounter",
+  "homepage": "https://github.com/wsdevprogrammer/wordcounter",
   "name": "wordcounter",
   "version": "0.1.0",
   "private": true,
@@ -10,13 +10,13 @@
     "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "^2.1.3",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -39,19 +39,19 @@
       "last 1 safari version"
     ]
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "description": "Free Word Counter to Boost up your Productivity",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wsdmarketer/reactWordCounter.git"
+    "url": "git+https://github.com/wsdevprogrammer/wordcounter.git"
   },
   "keywords": [
     "Word",
     "Counter"
   ],
-  "author": "wsdmarketer",
+  "author": "Waseem Saleem",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wsdmarketer/reactWordCounter/issues"
+    "url": "https://github.com/wsdevprogrammer/wordcounter/issues"
   }
 }
